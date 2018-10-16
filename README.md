@@ -1,3 +1,1 @@
-[toc]
-
-** A demo about MVP
+A demo about MVP
